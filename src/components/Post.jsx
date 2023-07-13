@@ -1,3 +1,4 @@
+import { Avatar } from './Avatar'
 import styles from './Post.module.css'
 
 export function Post() {
